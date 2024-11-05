@@ -1,0 +1,2 @@
+D:\Techup\Dalvinder\POC\POCADIntegration\pocadintegration.client\obj\Debug\pocadintegration.client.esproj.CoreCompileInputs.cache
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\pocadintegration.client\obj\Debug\pocadintegration.client.esproj.CoreCompileInputs.cache

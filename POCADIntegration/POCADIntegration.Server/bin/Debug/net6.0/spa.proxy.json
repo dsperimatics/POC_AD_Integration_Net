@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\Techup\\Dalvinder\\POC Github\\dsperimatics\\POC_AD_Integration_Net\\POCADIntegration\\POCADIntegration.Server\\..\\pocadintegration.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

@@ -1,0 +1,70 @@
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\spa.proxy.json
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\appsettings.Development.json
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\appsettings.json
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\POCADIntegration.Server.exe
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\POCADIntegration.Server.deps.json
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\POCADIntegration.Server.runtimeconfig.json
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\POCADIntegration.Server.dll
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\POCADIntegration.Server.pdb
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.csproj.AssemblyReference.cache
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\spa.proxy.json
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.AssemblyInfoInputs.cache
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.AssemblyInfo.cs
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.csproj.CoreCompileInputs.cache
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\staticwebassets\msbuild.POCADIntegration.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.POCADIntegration.Server.props
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.POCADIntegration.Server.props
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.POCADIntegration.Server.props
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\scopedcss\bundle\POCADIntegration.Server.styles.css
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.csproj.CopyComplete
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.dll
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\refint\POCADIntegration.Server.dll
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.pdb
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.genruntimeconfig.cache
+D:\Techup\Dalvinder\POC\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\ref\POCADIntegration.Server.dll
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\appsettings.Development.json
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\appsettings.json
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\spa.proxy.json
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\POCADIntegration.Server.exe
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\POCADIntegration.Server.deps.json
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\POCADIntegration.Server.runtimeconfig.json
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\POCADIntegration.Server.dll
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\POCADIntegration.Server.pdb
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.csproj.AssemblyReference.cache
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\spa.proxy.json
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.AssemblyInfoInputs.cache
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.AssemblyInfo.cs
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.csproj.CoreCompileInputs.cache
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\staticwebassets\msbuild.POCADIntegration.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\staticwebassets\msbuild.build.POCADIntegration.Server.props
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.POCADIntegration.Server.props
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.POCADIntegration.Server.props
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\scopedcss\bundle\POCADIntegration.Server.styles.css
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.csproj.CopyComplete
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.dll
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\refint\POCADIntegration.Server.dll
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.pdb
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\POCADIntegration.Server.genruntimeconfig.cache
+D:\Techup\Dalvinder\POC Github\dsperimatics\POC_AD_Integration_Net\POCADIntegration\POCADIntegration.Server\obj\Debug\net6.0\ref\POCADIntegration.Server.dll

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCADIntegration.Server", "POCADIntegration.Server\POCADIntegration.Server.csproj", "{82484852-F11A-4E6B-9740-29F95DAA9114}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "pocadintegration.client", "pocadintegration.client\pocadintegration.client.esproj", "{7EBA372F-89D8-4ECF-9C49-6262CA5DCF8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82484852-F11A-4E6B-9740-29F95DAA9114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82484852-F11A-4E6B-9740-29F95DAA9114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82484852-F11A-4E6B-9740-29F95DAA9114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82484852-F11A-4E6B-9740-29F95DAA9114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EBA372F-89D8-4ECF-9C49-6262CA5DCF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBA372F-89D8-4ECF-9C49-6262CA5DCF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBA372F-89D8-4ECF-9C49-6262CA5DCF8C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7EBA372F-89D8-4ECF-9C49-6262CA5DCF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBA372F-89D8-4ECF-9C49-6262CA5DCF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EBA372F-89D8-4ECF-9C49-6262CA5DCF8C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2AA5081-66AF-4F42-B6A0-E39975CD5CCB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "g3BfJ67R/4peWzqLqqiADNo9Z3inkcYgKG31r/qb2VY=",
+  "Source": "POCADIntegration.Server",
+  "BasePath": "_content/POCADIntegration.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Techup\\Dalvinder\\POC Github\\dsperimatics\\POC_AD_Integration_Net\\POCADIntegration\\pocadintegration.client\\pocadintegration.client.esproj",
+      "Version": 2,
+      "Source": "pocadintegration.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
